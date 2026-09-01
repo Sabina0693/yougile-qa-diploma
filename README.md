@@ -77,4 +77,4 @@ allure serve allure-results
 
 ## Ссылка на тест-план и документацию проекта
 
-<!-- вставить ссылку на страницу проекта в Yonote -->
+https://aliyeva-sabina.yonote.ru/share/17165efb-a303-45c4-b28f-6663373a547d
